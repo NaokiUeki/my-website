@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+2
+<html lang="ja">
+3
+<head>
+4
+<meta charset="UTF-8">
+5
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+6
+<title>naokiueki.com</title>
+7
+ 
+8
+<style>
+9
+body {
+10
+margin: 0;
+11
+font-family: "Segoe UI", sans-serif;
+12
+background: #f4f6f8;
+13
+color: #333;
+14
+}
+15
+ 
+16
+.container {
+17
+max-width: 800px;
+18
+margin: 80px auto;
+19
+padding: 40px;
+20
+background: white;
+21
+border-radius: 16px;
+22
+box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+23
+text-align: center;
+24
+}
+25
+ 
+26
+h1 {
+27
+color: #0078d4;
+28
+}
+29
+ 
+30
+.domain {
+31
+font-size: 24px;
+32
+font-weight: bold;
+33
+margin: 20px 0;
+34
+}
+35
+ 
+36
+footer {
+37
+margin-top: 40px;
+38
+color: gray;
+39
+}
+40
+</style>
+41
+</head>
+42
+<body>
+43
+ 
+44
+<div class="container">
+45
+<h1>Welcome</h1>
+46
+ 
+47
+<div class="domain">
+48
+naokiueki.com
+49
+</div>
+50
+ 
+51
+<p>
+52
+このサイトは GitHub Pages で公開されています。
+53
+</p>
+54
+ 
+55
+<p>
+56
+個人サイト構築テスト中。
+57
+</p>
+58
+ 
+59
+<footer>
+60
+© 2026 Naoki Ueki
+61
+</footer>
+62
+</div>
+63
+ 
+64
+</body>
+65
+</html>
